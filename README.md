@@ -13,7 +13,7 @@ https://github.com/immu0001/Udacity-Data-Engineer-nanodegree/blob/master/05-caps
 
 https://github.com/InosRahul/f1-data-pipeline/blob/main/terraform/main.tf
 
-
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 https://github.com/san089/data-engineer-roadmap
 
 https://github.com/fabragaMS/ADPE2E
